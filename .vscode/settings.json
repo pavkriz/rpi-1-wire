@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "i2c-dev.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c"
+    }
+}
